@@ -5,7 +5,7 @@ This project brings together data science and web development to deliver accurat
 
 ✨ Features
 
-Accurate Predictions: Ridge & Lasso Regression models trained on cleaned Bengaluru housing data, achieving an R² score of 0.8217.
+Accurate Predictions: Ridge Lasso Regression models and XG Boost trained on cleaned Bengaluru housing data, achieving an R² test score of 0.87
 
 User-Friendly Interface: Simple and responsive web form for inputting property details.
 
@@ -25,7 +25,7 @@ Pandas & NumPy – Data manipulation and analysis
 
 Scikit-learn – Machine learning library
 
-Pickle – Model serialization
+Pickle – Model serialization , XG Boost
 
 Frontend
 
@@ -41,7 +41,7 @@ Data Cleaning – Comprehensive preprocessing pipeline
 
 Feature Engineering – Price per sqft, BHK normalization
 
-Model Training – Ridge & Lasso Regression (R² = 0.8217)
+Model Training – Ridge, Lasso Regression and XG Boost(R² = 0.87)
 
 Outlier Handling – Advanced statistical methods for improved data quality
 
